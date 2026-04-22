@@ -1,0 +1,50 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "GPao4qawqPkvOLV1q1N0K"
+uri = "file://artifacts/carls-jr/src/assets/images/hero-burger.png"
+type = "image"
+title = "Hero Premium Burger"
+
+[[generated]]
+id = "S55fuGQZ5y5yKJyLZJLX5"
+uri = "file://artifacts/carls-jr/src/assets/images/interior.png"
+type = "image"
+title = "About Us Interior"
+
+[[generated]]
+id = "kFCewo4U8On5k-PB0NGR0"
+uri = "file://artifacts/carls-jr/src/assets/images/gallery-burger-1.png"
+type = "image"
+title = "Gallery Burger 1"
+
+[[generated]]
+id = "jetboNBhtnfnyN16IiDqo"
+uri = "file://artifacts/carls-jr/src/assets/images/gallery-burger-2.png"
+type = "image"
+title = "Gallery Burger 2"
+
+[[generated]]
+id = "2cs-ID1RuK0pG_pepWC6F"
+uri = "file://artifacts/carls-jr/src/assets/images/gallery-fries.png"
+type = "image"
+title = "Gallery Fries"
+
+[[generated]]
+id = "5x0won3_BXkbkArF-8PIY"
+uri = "file://artifacts/carls-jr/src/assets/images/gallery-drink.png"
+type = "image"
+title = "Gallery Drink"
+
+[[generated]]
+id = "h6lUD06VzJ0mUl-OoyfFq"
+uri = "file://artifacts/carls-jr/src/assets/images/gallery-combo.png"
+type = "image"
+title = "Gallery Combo"
+
+[[generated]]
+id = "3OXb8LTIIO4ew-msD1DU2"
+uri = "file://artifacts/carls-jr/src/assets/images/gallery-ambiance.png"
+type = "image"
+title = "Gallery Ambiance"

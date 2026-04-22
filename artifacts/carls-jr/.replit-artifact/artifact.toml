@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Carl's Jr."
+version = "1.0.0"
+id = "artifacts/carls-jr"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23386
+
+[services.development]
+run = "pnpm --filter @workspace/carls-jr run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/carls-jr", "run", "build" ]
+publicDir = "artifacts/carls-jr/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23386"
+BASE_PATH = "/"

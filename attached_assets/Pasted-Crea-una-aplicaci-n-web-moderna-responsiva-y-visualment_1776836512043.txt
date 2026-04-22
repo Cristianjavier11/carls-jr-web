@@ -1,0 +1,89 @@
+Crea una aplicación web moderna, responsiva y visualmente atractiva para un negocio real de comida rápida llamado “Carl's Jr.”.
+
+La página debe estar desarrollada con HTML, CSS y JavaScript, o con una estructura web simple que funcione correctamente en Replit. El diseño debe verse profesional, limpio y moderno, con enfoque en experiencia de usuario, buena jerarquía visual y compatibilidad con pantalla de laptop y móvil.
+
+Información del negocio:
+- Nombre: Carl's Jr.
+- Descripción: Carl's Jr. es una cadena de comida rápida fundada en 1941, reconocida por sus hamburguesas de alta calidad preparadas al momento a la parrilla con carne 100% Angus. Se caracteriza por ofrecer un ambiente familiar, servicio a la mesa, estaciones de refresco con relleno ilimitado y un menú enfocado en productos Premium.
+- Dirección: Av. Camino a Bosque de San Isidro 1475, Centinela I, 45130 Zapopan, Jalisco.
+- Horario: Lunes a domingo, de 9:00 a.m. a 10:00 p.m.
+
+La aplicación web debe incluir las siguientes secciones:
+
+1. Inicio / Hero section
+- Un encabezado llamativo con el nombre del negocio.
+- Un eslogan atractivo relacionado con hamburguesas premium y calidad.
+- Un botón principal como “Ver menú”, “Ordenar ahora” o “Contáctanos”.
+- Una imagen destacada relacionada con hamburguesas premium o comida rápida.
+- Un diseño moderno con colores cálidos, llamativos y elegantes, inspirados en una marca de hamburguesas premium.
+
+2. Sección “Sobre nosotros”
+- Un texto breve presentando a Carl's Jr.
+- Incluir que fue fundada en 1941.
+- Resaltar sus hamburguesas 100% Angus, ambiente familiar, servicio a la mesa y estaciones de refresco con refill ilimitado.
+
+3. Sección de servicios o características
+Mostrar tarjetas o bloques visuales con íconos o imágenes para destacar:
+- Hamburguesas premium a la parrilla
+- Servicio a la mesa
+- Ambiente familiar
+- Refresco con relleno ilimitado
+- Atención rápida
+- Calidad en ingredientes
+
+4. Galería
+- Incluir una galería visual atractiva con varias imágenes.
+- Puede usar imágenes de hamburguesas, papas, bebidas, combos o ambiente del restaurante.
+- La galería debe ser responsiva y ordenarse bien en móvil y escritorio.
+- Usa imágenes de ejemplo libres o placeholders elegantes si no se cuenta con archivos reales.
+
+5. Formulario de contacto funcional
+- Debe incluir campos para:
+  - Nombre
+  - Correo electrónico
+  - Teléfono
+  - Mensaje
+- Validar que los campos principales no estén vacíos.
+- Mostrar una alerta o mensaje visual al enviar correctamente.
+- Debe verse moderno y bien alineado.
+
+6. Sección de ubicación y horario
+- Mostrar la dirección completa del negocio.
+- Mostrar el horario: lunes a domingo, 9:00 a.m. a 10:00 p.m.
+- Agregar un botón o enlace que diga “Ver en Google Maps”.
+
+7. Footer personalizado
+El pie de página debe estar bien diseñado y dividido en secciones. Debe incluir:
+- Nombre del alumno: Cristian Javier Padilla Cornejo
+- Materia: Desarrollo de Aplicaciones Web en la Nube y Móviles
+- Profesor: Zeus Emanuel Gutierrez Cobian
+- Calendario: 26A
+- Espacio para colocar el logo de CUCEI
+- También incluir datos del negocio y enlaces rápidos a las secciones de la página
+
+Requisitos de diseño:
+- Diseño responsivo para laptop y móvil
+- Menú de navegación fijo o moderno
+- Uso de tipografías elegantes y legibles
+- Buen contraste de colores
+- Botones con efectos hover
+- Tarjetas con sombras suaves
+- Transiciones o animaciones ligeras al hacer scroll o pasar el mouse
+- Apariencia moderna tipo landing page profesional
+- Fondo, imágenes y distribución visual atractiva
+
+Requisitos técnicos:
+- Organiza bien el código
+- Usa nombres claros en clases y secciones
+- Comenta partes importantes del código
+- Asegúrate de que todo funcione correctamente en Replit
+- No uses funcionalidades complicadas que rompan la ejecución
+- El formulario debe simular envío correctamente en frontend
+
+Además:
+- Incluye contenido realista y bien redactado en español
+- Agrega textos atractivos de marketing para el negocio
+- La página debe estar lista para mostrarse como proyecto escolar
+- Deja claramente identificadas las partes que después podré cambiar, como mis datos personales y el logo de CUCEI
+
+Genera todo el código completo del proyecto.

@@ -5,8 +5,10 @@ import img3 from "@/assets/images/gallery-fries.png";
 import img4 from "@/assets/images/gallery-drink.png";
 import img5 from "@/assets/images/gallery-combo.png";
 import img6 from "@/assets/images/gallery-ambiance.png";
+import imgFeatured from "@assets/image_1776840190568.png";
 
 const images = [
+  { src: imgFeatured, alt: "Nuestro Menú Completo", colSpan: "col-span-1 md:col-span-4", rowSpan: "row-span-1 md:row-span-2" },
   { src: img1, alt: "Doble Cheeseburger Premium", colSpan: "col-span-1 md:col-span-2", rowSpan: "row-span-1 md:row-span-2" },
   { src: img3, alt: "Papas Fritas Crujientes", colSpan: "col-span-1", rowSpan: "row-span-1" },
   { src: img4, alt: "Bebida Refrescante", colSpan: "col-span-1", rowSpan: "row-span-1" },

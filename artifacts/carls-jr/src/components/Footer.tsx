@@ -1,3 +1,5 @@
+import cuceiLogo from "@assets/image_1776836933861.png";
+
 export function Footer() {
   const currentYear = new Date().getFullYear();
 
@@ -69,8 +71,8 @@ export function Footer() {
               <li><span className="font-bold text-white">Calendario:</span> 26A</li>
             </ul>
             
-            <div className="w-full h-20 border-2 border-dashed border-white/20 rounded-lg flex items-center justify-center text-white/50 text-sm font-medium bg-white/5">
-              Logo CUCEI - Reemplazar aquí
+            <div className="w-full bg-white rounded-lg p-4 flex items-center justify-center">
+              <img src={cuceiLogo} alt="Logo CUCEI" className="h-20 w-auto object-contain" />
             </div>
           </div>
         </div>
